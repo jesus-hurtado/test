@@ -1,0 +1,75 @@
+﻿EN UN PUEBLO BLANCO. 
+VIVÍA UN SEÑOR.
+QUE LEÍA Y LEÍA LIBROS. 
+DE SOL A SOL.
+UN DÍA, CON SU ARMADURA,.  
+SE FUE EN BUSCA DE AVENTURAS.
+Y SE HIZO LLAMAR.
+DON QUIJOTE DE LA MANCHA.
+¡MIRA, ESCUDERO,. 
+ESOS GIGANTES!.
+¡SON MOLINOS, MI SEÑOR,.
+LO QUE TENEMOS DELANTE!.
+¡MIRA, ESCUDERO,. 
+ESOS GIGANTES!.
+¡SON MOLINOS, MI SEÑOR,.
+LO QUE TENEMOS DELANTE!.
+CON SU AMIGO SANCHO PANZA.
+Y SU CABALLO ROCINANTE,.
+BUSCABA A SU AMADA.
+¡DULCINEA! ¡LA BELLA DAMA!.
+SIEMPRE HACÍA EL BIEN. 
+Y NUNCA SE DESANIMABA.
+AUNQUE PERDIERA. 
+BATALLA TRAS BATALLA.
+¡MIRA, ESCUDERO,. 
+ESOS GIGANTES!. 
+¡SON MOLINOS, MI SEÑOR,.
+LO QUE TENEMOS DELANTE!.
+¡MIRA, ESCUDERO,. 
+ESOS GIGANTES!.
+¡SON MOLINOS, MI SEÑOR,.
+LO QUE TENEMOS DELANTE!.
+¡MIRA, ESCUDERO,. 
+ESOS GIGANTES!.
+¡SON MOLINOS, MI SEÑOR,.
+LO QUE TENEMOS DELANTE!.
+¡MIRA, ESCUDERO,. 
+ESOS GIGANTES!.
+¡SON MOLINOS, MI SEÑOR,.
+LO QUE TENEMOS DELANTE!.
+
+
+
+=========================
+
+posible json
+
+[" ♫ ♫  ", 0], ["", 698],
+[" EN ", 205],[" UN ", 283],[" PUEBLO ", 259],[" BLANCO ", 0],["  ", 1351],[" VIVÍA ", 313],[" UN ", 414],[" SEÑOR ", 0],["  ", 1215],[" QUE ", 414],[" LEÍA ", 361],[" Y ", 340],[" LEÍA ", 325],[" LIBROS ", 0],["  ", 1180],[" DE ", 360],[" SOL ", 287],[" A ", 332],[" SOL ", 0],["  ", 1262],[" UN ", 313],[" DÍA, ", 368],[" CON ", 469],[" SU ", 181],[" ARMADURA, ", 0],["  ", 918],[" SE ", 286],[" FUE ", 290],[" EN ", 313],[" BUSCA ", 379],[" DE ", 206],[" AVENTURAS ", 0],["  ", 999],[" Y ", 270],[" SE ", 423],[" HIZO ", 405],[" LLAMAR ", 0],["  ", 863],[" DON ", 299],[" QUIJOTE ", 286],[" DE ", 398],[" LA ", 260],[" MANCHA ", 0],["  ", 1800],[" ¡MIRA, ", 603],[" ESCUDERO, ", 0],["  ", 1700],[" ESOS ", 557],[" GIGANTES! ", 0],["  ", 1683],[" ¡SON ", 441],[" MOLINOS, ", 325],[" MI ", 279],[" SEÑOR, ", 0],["  ", 917],[" LO ", 325],[" QUE ", 298],[" TENEMOS ", 700],[" DELANTE! ", 0],["  ", 1440],[" ¡MIRA, ", 433],[" ESCUDERO, ", 0],["  ", 1583],[" ESOS ", 550],[" GIGANTES! ", 0],["  ", 1780],[" ¡SON ", 263],[" MOLINOS, ", 367],[" MI ", 298],[" SEÑOR, ", 0],["  ", 1324],[" LO ", 240],[" QUE ", 488],[" TENEMOS ", 449],[" DELANTE! ", 0],["  ", 1331],[" CON ", 297],[" SU ", 315],[" AMIGO ", 387],[" SANCHO ", 208],[" PANZA ", 0],["  ", 837],[" Y ", 286],[" SU ", 441],[" CABALLO ", 398],[" ROCINANTE, ", 0],["  ", 1018],[" BUSCABA ", 348],[" A ", 372],[" SU ", 348],[" AMADA ", 0],["  ", 1181],[" ¡DULCINEA! ", 360],[" ¡LA ", 421],[" BELLA ", 372],[" DAMA! ", 0],["  ", 1734],[" SIEMPRE ", 379],[" HACÍA ", 422],[" EL ", 271],[" BIEN ", 0],["  ", 990],[" Y ", 360],[" NUNCA ", 432],[" SE ", 0],[" DESANIMABA ", 0],["  ", 1064],[" AUNQUE ", 0],["  ", 1034],[" PERDIERA ", 0],["  ", 1447],[" BATALLA ", 595],[" TRAS ", 476],[" BATALLA ", 0],["  ", 1557],[" ¡MIRA, ", 603],[" ESCUDERO, ", 0],["  ", 1700],[" ESOS ", 557],[" GIGANTES! ", 0],["  ", 1683],[" ¡SON ", 441],[" MOLINOS, ", 325],[" MI ", 279],[" SEÑOR, ", 0],["  ", 917],[" LO ", 325],[" QUE ", 298],[" TENEMOS ", 700],[" DELANTE! ", 0],["  ", 1440],[" ¡MIRA, ", 550],[" ESCUDERO, ", 0],["  ", 1675],[" ESOS ", 608],[" GIGANTES! ", 0],["  ", 1638],[" ¡SON ", 336],[" MOLINOS, ", 495],[" MI ", 286],[" SEÑOR, ", 0],["  ", 918],[" LO ", 495],[" QUE ", 612],[" TENEMOS ", 352],[" DELANTE! ", 0],["  ", 1466],[" ¡MIRA, ", 539],[" ESCUDERO, ", 0],["  ", 1675],[" ESOS ", 627],[" GIGANTES! ", 0],["  ", 1567],[" ¡SON ", 379],[" MOLINOS, ", 396],[" MI ", 421],[" SEÑOR, ", 0],["  ", 948],[" LO ", 313],[" QUE ", 585],[" TENEMOS ", 395],[" DELANTE! ", 0],["  ", 1342],[" ¡MIRA, ", 550],[" ESCUDERO, ", 0],["  ", 1672],[" ESOS ", 631],[" GIGANTES! ", 0],["  ", 1638],[" ¡SON ", 305],[" MOLINOS, ", 387],[" MI ", 468],[" SEÑOR, ", 0],["  ", 1018],[" LO ", 367],[" QUE ", 585],[" TENEMOS ", 441],[" DELANTE! ", 0],["  ", 1000]
+
+
+
+===============================
+
+
+
+["", 938],
+[" EN ", 259],[" UN ", 232],[" PUEBLO ", 414],[" BLANCO ", 0],["  ", 921],[" VIVÍA ", 240],[" UN ", 847],[" SEÑOR ", 0],["  ", 1235],[" QUE ", 259],[" LEÍA ", 387],[" Y ", 422],[" LEÍA ", 333],[" LIBROS ", 0],["  ", 828],[" DE ", 631],[" SOL ", 287],[" A ", 386],[" SOL ", 0],["  ", 1207],[" UN ", 550],[" DÍA, ", 232],[" CON ", 298],[" SU ", 306],[" ARMADURA, ", 0],["  ", 782],[" SE ", 271],[" FUE ", 278],[" EN ", 252],[" BUSCA ", 379],[" DE ", 348],[" AVENTURAS ", 0],["  ", 120],[" Y ", 0],["  ", 755],[" SE ", 224],[" HIZO ", 306],[" LLAMAR ", 612],[" DON ", 0],["  ", 839],[" QUIJOTE ", 287],[" DE ", 279],[" LA ", 251],[" MANCHA ", 414],[" ¡MIRA, ", 0],["  ", 2403],[" ESCUDERO, ", 0],["  ", 341],[" ESOS ", 1262],[" GIGANTES! ", 0],["  ", 2132],[" ¡SON ", 251],[" MOLINOS, ", 271],[" MI ", 414],[" SEÑOR, ", 0],["  ", 1169],[" LO ", 286],[" QUE ", 569],[" TENEMOS ", 306],[" DELANTE! ", 0],["  ", 1583],[" ¡MIRA, ", 361],[" ESCUDERO, ", 0],["  ", 1864],[" ESOS ", 585],[" GIGANTES! ", 0],["  ", 1420],[" ¡SON ", 298],[" MOLINOS, ", 592],[" MI ", 406],[" SEÑOR, ", 0],["  ", 1169],[" LO ", 224],[" QUE ", 469],[" TENEMOS ", 476],[" DELANTE! ", 0],["  ", 1351],[" CON ", 270],[" SU ", 341],[" AMIGO ", 333],[" SANCHO ", 189],[" PANZA ", 0],["  ", 856],[" Y ", 297],[" SU ", 377],[" CABALLO ", 313],[" ROCINANTE, ", 0],["  ", 1513],[" BUSCABA ", 414],[" A ", 406],[" SU ", 279],[" AMADA ", 0],["  ", 1079],[" ¡DULCINEA! ", 647],[" ¡LA ", 290],[" BELLA ", 367],[" DAMA! ", 0],["  ", 1286],[" SIEMPRE ", 425],[" HACÍA ", 360],[" EL ", 294],[" BIEN ", 0],["  ", 1002],[" Y ", 314],[" NUNCA ", 406],[" SE ", 294],[" DESANIMABA ", 0],["  ", 1092],[" AUNQUE ", 701],[" PERDIERA ", 1934],[" BATALLA ", 592],[" TRAS ", 271],[" BATALLA ", 0],["  ", 1703],[" ¡MIRA, ", 429],[" ESCUDERO, ", 0],["  ", 1765],[" ESOS ", 577],[" GIGANTES! ", 0],["  ", 1745],[" ¡SON ", 306],[" MOLINOS, ", 298],[" MI ", 286],[" SEÑOR, ", 163],[" LO ", 0],["  ", 1072],[" QUE ", 259],[" TENEMOS ", 441],[" DELANTE! ", 0],["  ", 1889],[" ¡MIRA, ", 549],[" ESCUDERO, ", 0],["  ", 1738],[" ESOS ", 530],[" GIGANTES! ", 0],["  ", 1541],[" ¡SON ", 402],[" MOLINOS, ", 271],[" MI ", 279],[" SEÑOR, ", 0],["  ", 1277],[" LO ", 271],[" QUE ", 224],[" TENEMOS ", 0],["  ", 484],[" DELANTE! ", 2016],[" ¡MIRA, ", 263],[" ESCUDERO, ", 0],["  ", 298],[" ESOS ", 1800],[" GIGANTES! ", 0],["  ", 403],[" ¡SON ", 486],[" MOLINOS, ", 225],[" MI ", 0],["  ", 399],[" SEÑOR, ", 2159],[" LO ", 287],[" QUE ", 224],[" TENEMOS ", 341],[" DELANTE! ", 0],["  ", 2214],[" ¡MIRA, ", 595],[" ESCUDERO, ", 0],["  ", 1719],[" ESOS ", 604],[" GIGANTES! ", 205],[" ¡SON ", 0],["  ", 1385],[" MOLINOS, ", 224],[" MI ", 387],[" SEÑOR, ", 0],["  ", 1378],[" LO ", 287],[" QUE ", 270],[" TENEMOS ", 504],[" DELANTE! ", 0],["  ", 1000]
+
+
+
+=======================================
+
+Definitivo
+
+[" ♫ ♫  ", 0], ["", 698],
+[" EN ", 205],[" UN ", 283],[" PUEBLO ", 259],[" BLANCO ", 0],["  ", 1351],[" VIVÍA ", 313],[" UN ", 414],[" SEÑOR ", 0],["  ", 1215],[" QUE ", 414],[" LEÍA ", 361],[" Y ", 340],[" LEÍA ", 325],[" LIBROS ", 0],["  ", 1180],[" DE ", 360],[" SOL ", 287],[" A ", 332],[" SOL. ", 0],["  ", 1262],[" UN ", 313],[" DÍA, ", 368],[" CON ", 469],[" SU ", 181],[" ARMADURA, ", 0],["  ", 918],[" SE ", 286],[" FUE ", 290],[" EN ", 313],[" BUSCA ", 379],[" DE ", 206],[" AVENTURAS ", 0],["  ", 999],[" Y ", 270],[" SE ", 423],[" HIZO ", 405],[" LLAMAR ", 0],["  ", 863],[" DON ", 299],[" QUIJOTE ", 286],[" DE ", 398],[" LA ", 260],[" MANCHA. ", 0],["  ", 1800],[" ¡MIRA, ", 603],[" ESCUDERO, ", 0],["  ", 1700],[" ESOS ", 557],[" GIGANTES! ", 0],["  ", 1683],[" ¡SON ", 441],[" MOLINOS, ", 325],[" MI ", 279],[" SEÑOR, ", 0],["  ", 917],[" LO ", 325],[" QUE ", 298],[" TENEMOS ", 700],[" DELANTE! ", 0],["  ", 1440],[" ¡MIRA, ", 433],[" ESCUDERO, ", 0],["  ", 1583],[" ESOS ", 550],[" GIGANTES! ", 0],["  ", 1780],[" ¡SON ", 263],[" MOLINOS, ", 367],[" MI ", 298],[" SEÑOR, ", 0],["  ", 1324],[" LO ", 240],[" QUE ", 488],[" TENEMOS ", 449],[" DELANTE! ", 0],["  ", 1331],[" CON ", 297],[" SU ", 315],[" AMIGO ", 387],[" SANCHO ", 208],[" PANZA ", 0],["  ", 837],[" Y ", 286],[" SU ", 441],[" CABALLO ", 398],[" ROCINANTE, ", 0],["  ", 1018],[" BUSCABA ", 348],[" A ", 372],[" SU ", 348],[" AMADA ", 0],["  ", 1181],[" ¡DULCINEA! ", 360],[" ¡LA ", 421],[" BELLA ", 372],[" DAMA! ", 0],["  ", 1286],[" SIEMPRE ", 425],[" HACÍA ", 360],[" EL ", 294],[" BIEN ", 0],["  ", 1002],[" Y ", 314],[" NUNCA ", 406],[" SE ", 294],[" DESANIMABA ", 0],["  ", 1092],[" AUNQUE ", 701],[" PERDIERA ", 1934],[" BATALLA ", 592],[" TRAS ", 271],[" BATALLA. ", 0],["  ", 1703],[" ¡MIRA, ", 603],[" ESCUDERO, ", 0],["  ", 1700],[" ESOS ", 557],[" GIGANTES! ", 0],["  ", 1683],[" ¡SON ", 441],[" MOLINOS, ", 325],[" MI ", 279],[" SEÑOR, ", 0],["  ", 917],[" LO ", 325],[" QUE ", 298],[" TENEMOS ", 700],[" DELANTE! ", 0],["  ", 1440],[" ¡MIRA, ", 550],[" ESCUDERO, ", 0],["  ", 1675],[" ESOS ", 608],[" GIGANTES! ", 0],["  ", 1638],[" ¡SON ", 336],[" MOLINOS, ", 495],[" MI ", 286],[" SEÑOR, ", 0],["  ", 918],[" LO ", 495],[" QUE ", 612],[" TENEMOS ", 352],[" DELANTE! ", 0],["  ", 1466],[" ¡MIRA, ", 539],[" ESCUDERO, ", 0],["  ", 1675],[" ESOS ", 627],[" GIGANTES! ", 0],["  ", 1567],[" ¡SON ", 379],[" MOLINOS, ", 396],[" MI ", 421],[" SEÑOR, ", 0],["  ", 948],[" LO ", 313],[" QUE ", 585],[" TENEMOS ", 395],[" DELANTE! ", 0],["  ", 1342],[" ¡MIRA, ", 550],[" ESCUDERO, ", 0],["  ", 1672],[" ESOS ", 631],[" GIGANTES! ", 0],["  ", 1638],[" ¡SON ", 305],[" MOLINOS, ", 387],[" MI ", 468],[" SEÑOR, ", 0],["  ", 1018],[" LO ", 367],[" QUE ", 585],[" TENEMOS ", 441],[" DELANTE! ", 0],["  ", 1000]
+
+
+========================
+
+otro
+
+["", 638],
+[" EN ", 198],[" UN ", 224],[" PUEBLO ", 430],[" BLANCO ", 0],["  ", 1281],[" VIVÍA ", 240],[" UN ", 588],[" SEÑOR ", 0],["  ", 1359],[" QUE ", 259],[" LEÍA ", 433],[" Y ", 225],[" LEÍA ", 433],[" LIBROS ", 0],["  ", 1231],[" DE ", 503],[" SOL ", 263],[" A ", 313],[" SOL ", 0],["  ", 1161],[" UN ", 224],[" DÍA, ", 433],[" CON ", 261],[" SU ", 297],[" ARMADURA, ", 0],["  ", 1053],[" SE ", 244],[" FUE ", 367],[" EN ", 279],[" BUSCA ", 217],[" DE ", 209],[" AVENTURAS ", 0],["  ", 968],[" Y ", 227],[" SE ", 531],[" HIZO ", 368],[" LLAMAR ", 0],["  ", 1064],[" DON ", 243],[" QUIJOTE ", 446],[" DE ", 263],[" LA ", 251],[" MANCHA ", 0],["  ", 1529],[" ¡MIRA, ", 541],[" ESCUDERO, ", 0],["  ", 1730],[" ESOS ", 519],[" GIGANTES! ", 0],["  ", 1594],[" ¡SON ", 214],[" MOLINOS, ", 398],[" MI ", 360],[" SEÑOR, ", 0],["  ", 1340],[" LO ", 216],[" QUE ", 414],[" TENEMOS ", 333],[" DELANTE! ", 0],["  ", 1691],[" ¡MIRA, ", 576],[" ESCUDERO, ", 0],["  ", 1630],[" ESOS ", 611],[" GIGANTES! ", 0],["  ", 1424],[" ¡SON ", 232],[" MOLINOS, ", 287],[" MI ", 406],[" SEÑOR, ", 0],["  ", 1340],[" LO ", 235],[" QUE ", 268],[" TENEMOS ", 766],[" DELANTE! ", 0],["  ", 1350],[" CON ", 236],[" SU ", 383],[" AMIGO ", 407],[" SANCHO ", 333],[" PANZA ", 0],["  ", 738],[" Y ", 233],[" SU ", 252],[" CABALLO ", 522],[" ROCINANTE, ", 0],["  ", 1556],[" BUSCABA ", 224],[" A ", 406],[" SU ", 415],[" AMADA ", 0],["  ", 1072],[" ¡DULCINEA! ", 313],[" ¡LA ", 460],[" BELLA ", 458],[" DAMA! ", 0],["  ", 1315],[" SIEMPRE ", 224],[" HACÍA ", 504],[" EL ", 414],[" BIEN ", 0],["  ", 1107],[" Y ", 224],[" NUNCA ", 468],[" SE ", 461],[" DESANIMABA ", 0],["  ", 1494],[" AUNQUE ", 592],[" PERDIERA ", 0],["  ", 1556],[" BATALLA ", 278],[" TRAS ", 442],[" BATALLA ", 0],["  ", 1710],[" ¡MIRA, ", 557],[" ESCUDERO, ", 0],["  ", 1784],[" ESOS ", 577],[" GIGANTES! ", 0],["  ", 1544],[" ¡SON ", 263],[" MOLINOS, ", 395],[" MI ", 332],[" SEÑOR, ", 0],["  ", 1297],[" LO ", 225],[" QUE ", 460],[" TENEMOS ", 422],[" DELANTE! ", 0],["  ", 1602],[" ¡MIRA, ", 449],[" ESCUDERO, ", 0],["  ", 1772],[" ESOS ", 523],[" GIGANTES! ", 0],["  ", 1420],[" ¡SON ", 244],[" MOLINOS, ", 387],[" MI ", 379],[" SEÑOR, ", 0],["  ", 1386],[" LO ", 232],[" QUE ", 507],[" TENEMOS ", 510],[" DELANTE! ", 0],["  ", 1394],[" ¡MIRA, ", 658],[" ESCUDERO, ", 0],["  ", 1692],[" ESOS ", 928],[" GIGANTES! ", 0],["  ", 1134],[" ¡SON ", 243],[" MOLINOS, ", 322],[" MI ", 630],[" SEÑOR, ", 0],["  ", 1026],[" LO ", 233],[" QUE ", 514],[" TENEMOS ", 530],[" DELANTE! ", 0],["  ", 1459],[" ¡MIRA, ", 557],[" ESCUDERO, ", 0],["  ", 1671],[" ESOS ", 581],[" GIGANTES! ", 0],["  ", 1556],[" ¡SON ", 233],[" MOLINOS, ", 522],[" MI ", 422],[" SEÑOR, ", 0],["  ", 964],[" LO ", 278],[" QUE ", 531],[" TENEMOS ", 585],[" DELANTE! ", 0],["  ", 1000]
